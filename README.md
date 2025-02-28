@@ -4,7 +4,7 @@ Here is **Qiang Guo**. Welcome to my personal website.
 
 ## Update and News
 
-- **Seq 2023:** My personal website have been implemented and deployed in [stronguo.github.io](https://stronguo.github.io/)
+- **March 2025:** My personal website have been implemented and deployed in [stronguo.github.io](https://stronguo.github.io/)
 
 
 ## Statement
