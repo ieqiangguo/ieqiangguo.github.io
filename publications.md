@@ -10,13 +10,13 @@ Lastest Update: 1th March 2025.&nbsp;  ![](http://latex.codecogs.com/svg.latex?\
 
 <!-- ![](http://latex.codecogs.com/svg.latex?^{\bullet}) -->
 ## Journal Paper
-- DCIB: Dual contrastive information bottleneck for knowledge-aware recommendation. <a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732400339X"><img src="/images/pdf.png" width="20" height="20"></a><br>**Qiang Guo**, Jialong Hai, Zhongchuan Sun, Bin Wu, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Information Processing & Management, 2025.
+- DCIB: Dual contrastive information bottleneck for knowledge-aware recommendation. <a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732400339X"><img src="/images/pdf.png" width="20" height="20"></a><br>**Qiang Guo**, Jialong Hai, Zhongchuan Sun, Bin Wu, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Information Processing & Management, 2025. (中科院1区 SCI, IF: 7.4)
   
 -  Consistency-constrained RGB-T crowd counting via mutual information maximization. <a href="https://link.springer.com/article/10.1007/s40747-024-01427-x"><img src="/images/pdf.png" width="20" height="20"></a><br>**Qiang Guo**, Pengcheng Yuan, Xiangming Huang, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Complex & Intelligent Systems, 2024. (中科院2区 SCI, IF: 5.0)
 
--  Learning a deep network with cross-hierarchy aggregation for crowd counting. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705120308200"><img src="/images/pdf.png" width="20" height="20"></a><br>**Qiang Guo**, Xin Zeng, Shizhe Hu, Sonephet Phoummixay, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Knowledge-Based Systems, 2021. (中科院1区 SCI, IF: 8.1)
+-  Learning a deep network with cross-hierarchy aggregation for crowd counting. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705120308200"><img src="/images/pdf.png" width="20" height="20"></a><br>**Qiang Guo**, Xin Zeng, Shizhe Hu, Sonephet Phoummixay, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Knowledge-Based Systems, 2021. (中科院1区 SCI, IF: 7.2)
 
-- ProNet: A Contrastive Propagation Network for Multimodal Lifelong Clustering.<a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732400339X"><img src="/images/pdf.png" width="20" height="20"></a><br>Yiqiao Mao, ZiruiHu, **Qiang Guo**, Xiaoqiang Yan, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Knowledge-Based Systems, 2025. (中科院1区 SCI, IF: 8.1)
+- ProNet: A Contrastive Propagation Network for Multimodal Lifelong Clustering.<a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732400339X"><img src="/images/pdf.png" width="20" height="20"></a><br>Yiqiao Mao, ZiruiHu, **Qiang Guo**, Xiaoqiang Yan, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Knowledge-Based Systems, 2025. (中科院1区 SCI, IF: 7.2)
   
 - Multimodal Nonredundant Clustering via Sufficiency Complementary Mining.<a href="https://ieeexplore.ieee.org/abstract/document/10770014"><img src="/images/pdf.png" width="20" height="20"></a><br>Yiqiao Mao; Xiaoqiang Yan; **Qiang Guo**![](http://latex.codecogs.com/svg.latex?\ast); Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>IEEE Transactions on Industrial Informatics, 2024. (中科院1区 SCI, IF: 11.7)
 
