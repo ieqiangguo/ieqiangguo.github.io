@@ -7,4 +7,4 @@ title: Academic Activities
 
 ## Reviewer of Journals
 
-Expert Systems with Applications<br>International Journal of Machine Learning and Cybernetics
+Applied Intelligence<br>Safety science
