@@ -235,7 +235,7 @@ Official homepage is <a href="https://www7.zzu.edu.cn/csai/info/1233/3668.htm" t
     </div>
 
     <div class="education-logo">
-      <img src="{{ '/images/zzulogo.png' | relative_url }}" alt="Zhengzhou University" loading="lazy">
+      <img src="{{ '/images/zzulogo.svg' | relative_url }}" alt="Zhengzhou University" loading="lazy">
     </div>
   </div>
 
@@ -249,7 +249,7 @@ Official homepage is <a href="https://www7.zzu.edu.cn/csai/info/1233/3668.htm" t
     </div>
 
     <div class="education-logo">
-      <img src="{{ '/images/zzulogo.png' | relative_url }}" alt="Zhengzhou University" loading="lazy">
+      <img src="{{ '/images/zzulogo.svg' | relative_url }}" alt="Zhengzhou University" loading="lazy">
     </div>
   </div>
 
@@ -262,7 +262,7 @@ Official homepage is <a href="https://www7.zzu.edu.cn/csai/info/1233/3668.htm" t
     </div>
 
     <div class="education-logo">
-      <img src="{{ '/images/szulogo.png' | relative_url }}" alt="Shenzhen University" loading="lazy">
+      <img src="{{ '/images/szulogo.svg' | relative_url }}" alt="Shenzhen University" loading="lazy">
     </div>
   </div>
 
