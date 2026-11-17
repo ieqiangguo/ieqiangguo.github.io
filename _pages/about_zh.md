@@ -12,7 +12,7 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 # 个人简介
 
-<div class="about-text" markdown="1">
+<div class="about-text" lang="zh-CN" markdown="1">
 
 我目前任职于郑州大学计算机与人工智能学院。本人于 2025 年 6 月在郑州大学获得软件工程专业博士学位，导师为 <a href="http://www5.zzu.edu.cn/mlis/" target="_blank" rel="noopener"><strong>叶阳东教授</strong></a>。我的研究兴趣主要包括数据挖掘与机器学习，重点关注推荐系统、多模态学习、信息瓶颈和图表示学习等方向。我的研究目标是面向推荐和图数据分析任务，探索有效、鲁棒且具有一定可解释性的学习方法。
 
